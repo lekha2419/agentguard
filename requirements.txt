@@ -1,0 +1,4 @@
+This is my shopping list of python libraries my project needs
+google-generativeai
+streamlit - builds the UI
+python-dotenv - loads my secreat API Key safely from a env file
