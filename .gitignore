@@ -1,0 +1,10 @@
+# Never upload secrets
+.env
+
+# Python junk files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
